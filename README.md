@@ -1,1 +1,1 @@
-##Aplicacion para asistencia de alumnos
+Aplicacion para asistencia de alumnos
